@@ -2,6 +2,6 @@
 
 if(navigator.serviceWorker){
     // console.log("Hey los soportamos");
-    navigator.serviceWorker.register('/sw.js');
+    navigator.serviceWorker.register('/AWP-U1-P2/sw.js');
 
 }
